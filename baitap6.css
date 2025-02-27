@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content1 {
+    margin-left: 30px;
+
+    h1 {
+        border-left: 5px solid orange;
+        padding-left: 15px;
+    }
+
+    img {
+        width: 500px;
+        height: 300px;
+    }
+
+    p {
+        color: #a9a9a9;
+    }
+
+    h4 {
+        border-bottom: 0.5px solid #d3d3d3;
+        width: 850px;
+        padding-bottom: 20px;
+    }
+}
+
+.content2 {
+    width: 450px;
+    height: 530px;
+    position: relative;
+    top: 0;
+
+    h1 {
+        border-left: 5px solid orange;
+        padding-left: 15px;
+    }
+
+    img {
+        width: 350px;
+        height: 350px;
+        opacity: 0.89;
+    }
+
+    h3 {
+        color: white;
+        position: absolute;
+        top: 285px;
+        margin-left: 17px;
+    }
+
+    h4 {
+        border-bottom: 1.5px solid #d3d3d3;
+        width: 400px;
+        padding-bottom: 14px;
+    }
+}
+
+#mid2 {
+    background-color: #d3d3d3;
+    width: 700px;
+    height: 300px;
+    position: relative;
+
+    img {
+        height: 242px;
+        padding-right: 500px;
+    }
+
+    .content3 {
+        position: absolute;
+        top: 5px;
+        left: 350px;
+
+        li {
+            color: blue;
+        }
+    }
+}
+
+.button {
+    border-bottom: 0.5px solid black;
+    background-color: #87cefa;
+    color: blue;
+    padding-top: 15px;
+}
+.Accordion{
+p {
+    border-bottom: 0.5px solid black;
+    width: 500px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    a{
+        color: pink;
+    }
+}
+}
